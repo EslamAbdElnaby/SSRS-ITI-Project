@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ITI_Data_Source">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-CBL6IVL;Initial Catalog=ITI ; Integrated Security=True;TrustServerCertificate=True;</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source ITI_Data_Source</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>3a921ffc-9738-4598-8af3-27c801a876ea</DataSourceID>
+</RptDataSource>

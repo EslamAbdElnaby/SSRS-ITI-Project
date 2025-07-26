@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DWH\\day6\\SSRS-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|D:\\DWH\\day6\\SSRS-Project\\Report_8 Sales_OLAP.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|solutionrelative:Report_8 Sales_OLAP.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|D:\\DWH\\day6\\SSRS-Project\\Report_7 Parmmeter_Dept.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|solutionrelative:Report_7 Parmmeter_Dept.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|D:\\DWH\\day6\\SSRS-Project\\Report_6_SP_Ages_Parameters.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{E85339FC-2451-E4F3-522F-C7BA4CBEC14A}|SSRS-Project.rptproj|solutionrelative:Report_6_SP_Ages_Parameters.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report_8 Sales_OLAP.rdl [Design]",
+              "DocumentMoniker": "D:\\DWH\\day6\\SSRS-Project\\Report_8 Sales_OLAP.rdl",
+              "RelativeDocumentMoniker": "Report_8 Sales_OLAP.rdl",
+              "ToolTip": "D:\\DWH\\day6\\SSRS-Project\\Report_8 Sales_OLAP.rdl [Design]",
+              "RelativeToolTip": "Report_8 Sales_OLAP.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T01:24:16.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report_7 Parmmeter_Dept.rdl [Design]",
+              "DocumentMoniker": "D:\\DWH\\day6\\SSRS-Project\\Report_7 Parmmeter_Dept.rdl",
+              "RelativeDocumentMoniker": "Report_7 Parmmeter_Dept.rdl",
+              "ToolTip": "D:\\DWH\\day6\\SSRS-Project\\Report_7 Parmmeter_Dept.rdl [Design]",
+              "RelativeToolTip": "Report_7 Parmmeter_Dept.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T01:22:57.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report_6_SP_Ages_Parameters.rdl [Design]",
+              "DocumentMoniker": "D:\\DWH\\day6\\SSRS-Project\\Report_6_SP_Ages_Parameters.rdl",
+              "RelativeDocumentMoniker": "Report_6_SP_Ages_Parameters.rdl",
+              "ToolTip": "D:\\DWH\\day6\\SSRS-Project\\Report_6_SP_Ages_Parameters.rdl [Design]",
+              "RelativeToolTip": "Report_6_SP_Ages_Parameters.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T01:22:16.735Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
